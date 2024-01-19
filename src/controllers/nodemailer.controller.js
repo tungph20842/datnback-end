@@ -7,7 +7,7 @@ export const sendMail = async (data) => {
 		service: 'Gmail',
 		auth: {
 			user: 'dasuabest@gmail.com',
-			pass: 'slyojyueluxfpbwa',
+			pass: 'qcgsbmwlkzrmvjzt',
 		},
 		tls: {
 			rejectUnauthorized: false,
@@ -107,7 +107,8 @@ export const sendMail1 = async (data) => {
 		service: 'Gmail',
 		auth: {
 			user: 'dasuabest@gmail.com',
-			pass: 'slyojyueluxfpbwa',
+			pass: 'qcgsbmwlkzrmvjzt',
+
 		},
 		tls: {
 			rejectUnauthorized: false,
@@ -155,7 +156,8 @@ export const sendMail2 = async (data) => {
 		service: 'Gmail',
 		auth: {
 			user: 'dasuabest@gmail.com',
-			pass: 'slyojyueluxfpbwa',
+			pass: 'qcgsbmwlkzrmvjzt',
+
 		},
 		tls: {
 			rejectUnauthorized: false,
